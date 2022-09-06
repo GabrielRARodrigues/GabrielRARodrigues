@@ -49,7 +49,7 @@
 <a href="https://twitter.com/GabrielRochaAR" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-GabrielRochaAR-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="www.linkedin.com/in/gabrielrarodrigues" target="_blank">
+<a href="https://www.linkedin.com/in/gabrielrarodrigues" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-gabrielrarodrigues-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/gabriel.ra.rodrigues" target="_blank">
