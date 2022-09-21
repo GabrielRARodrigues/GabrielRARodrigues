@@ -52,7 +52,7 @@
 <a href="https://www.linkedin.com/in/gabrielrarodrigues" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-gabrielrarodrigues-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/gabriel.ra.rodrigues" target="_blank">
+<a href="https://www.instagram.com/gabrielra.rodrigues" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-gabriel.ra.rodriguess-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
