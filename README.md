@@ -43,17 +43,17 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/gabrielrarodrigues" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-gabrielrarodrigues-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/GabrielRochaAR" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-GabrielRochaAR-05122A?style=flat&logo=twitter" alt="twitter"/>  
+<a href="mailto:gabriel.rocha.andrade.rodrigues@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-gabriel.rocha.andrade.rodrigues-05122A?style=flat&logo=gmail" alt="email"/>  
 </a>
 <a href="https://www.linkedin.com/in/gabrielrarodrigues" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-gabrielrarodrigues-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/gabrielra.rodrigues" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-gabrielra.rodrigues-05122A?style=flat&logo=instagram" alt="instagram"/>
+<a href="https://codepen.io/gabrielrarodrigues" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-gabrielrarodrigues-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>
 </a>
 
 </p>
